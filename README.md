@@ -83,9 +83,9 @@ The Daily Prophet is constantly evolving to provide an even better user experien
 Stay tuned for these exciting updates, coming soon to The Daily Prophet!
 
 
-## Contributors
+## Developed By
 
-- [Your Name](https://github.com/BlackDranzer777/) - Lead Developer
+- [Divyansh Jain](https://github.com/BlackDranzer777/) - Lead Developer
 
 ## License
 
