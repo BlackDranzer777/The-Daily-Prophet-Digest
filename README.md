@@ -62,7 +62,7 @@ Stay tuned for these exciting updates, coming soon to The Daily Prophet!
 
 ## Contributors
 
-- [Your Name](https://github.com/BlackDranzer777/) - Lead Developer
+- [Divyansh Jain](https://github.com/BlackDranzer777/) - Full-Stack Developer
 
 ## License
 
