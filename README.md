@@ -10,6 +10,19 @@ The Daily Prophet is a magical news aggregator inspired by the wizarding world o
 - **Personalized News Feed**: Customize your news feed by selecting preferred sources, categories, and authors.
 - **Mobile-Responsive Design**: Optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
 
+  ### Implemented:
+- **Fetching data from three different sources:** NewsAPI.org, The Guardian API, and The New York Times API.
+- **Article Search and Filtering:** Users can search for articles by keyword and filter results by date, category, and source.
+- **Personalized News Feed:** Users can customize their news feed by selecting preferred sources and categories.
+- **Mobile-Responsive Design:** The website is optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
+
+  ### Need to be Implemented:
+- **Selecting Preferred Authors:** The feature to select preferred authors for the personalized news feed is not yet implemented.
+
+  ### Additional Features:
+- **Lazy Loading:** Users can load more options upon clicking, enhancing the user experience by loading content dynamically.
+
+
 ## Design Inspiration
 
 The design of The Daily Prophet draws inspiration from the iconic newspaper featured in the Harry Potter series. With its vintage aesthetic, parchment-like backgrounds, and ornate typography, the app captures the essence of the wizarding world while providing a modern and intuitive interface for users.
@@ -20,6 +33,7 @@ The design of The Daily Prophet draws inspiration from the iconic newspaper feat
 - **NewsAPI.org**: Comprehensive API for accessing articles from thousands of news sources.
 - **The Guardian API**: API for accessing articles from The Guardian newspaper.
 - **The New York Times API**: API for accessing articles from The New York Times.
+
 
 ## Getting Started
 
@@ -65,10 +79,9 @@ The Daily Prophet is constantly evolving to provide an even better user experien
 - **Advanced Search Options**: Enhancements to the search functionality, allowing users to perform more advanced searches based on specific criteria.
 - **Interactive News Feed**: Implementing features for users to interact with articles directly within the app, such as liking, commenting, and sharing.
 - **Customizable Themes**: Introducing customizable themes and color schemes to personalize the app's appearance according to user preferences.
-- **Notification System**: Implementing a notification system to alert users about breaking news and important updates.
-- **Social Media Integration**: Integrating social media platforms to allow users to share articles seamlessly with their friends and followers.
 
 Stay tuned for these exciting updates, coming soon to The Daily Prophet!
+
 
 ## Contributors
 
