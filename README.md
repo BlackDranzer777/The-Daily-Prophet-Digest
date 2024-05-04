@@ -1,4 +1,4 @@
-<div style="background-color: #eee5de; padding: 20px;">
+<div style="background-color: #eee5de; padding: 20px; width: 100%;">
 
 # The Daily Prophet
 
