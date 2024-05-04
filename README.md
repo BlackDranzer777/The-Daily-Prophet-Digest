@@ -1,6 +1,6 @@
 # The Daily Prophet
 
-![The Daily Prophet Logo]((https://www.vhv.rs/dpng/d/460-4602906_fictional-universe-of-harry-potter-lord-voldemort-hogwarts.png))
+![The Daily Prophet Logo](https://www.vhv.rs/dpng/d/460-4602906_fictional-universe-of-harry-potter-lord-voldemort-hogwarts.png)
 
 The Daily Prophet is a magical news aggregator inspired by the wizarding world of Harry Potter. This web application brings the latest news updates from various sources straight to your fingertips, offering a seamless and enchanting user experience. Utilizing APIs from NewsAPI.org, The Guardian, and The New York Times, The Daily Prophet offers a comprehensive selection of articles across different categories and topics.
 
