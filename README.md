@@ -1,6 +1,4 @@
 <div style="background-color: #eee5de; padding: 20px;">
-    <p>This is a paragraph with a custom background color.</p>
-</div>
 
 # The Daily Prophet
 
@@ -47,6 +45,8 @@ The Daily Prophet is constantly evolving to provide an even better user experien
 - **Customizable Themes**: Introducing customizable themes and color schemes to personalize the app's appearance according to user preferences.
 - **Notification System**: Implementing a notification system to alert users about breaking news and important updates.
 - **Social Media Integration**: Integrating social media platforms to allow users to share articles seamlessly with their friends and followers.
+
+</div>
 
 Stay tuned for these exciting updates, coming soon to The Daily Prophet!
 
