@@ -11,16 +11,16 @@ The Daily Prophet is a magical news aggregator inspired by the wizarding world o
 - **Mobile-Responsive Design**: Optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
 
   ### Implemented:
-- **Fetching data from three different sources:** NewsAPI.org, The Guardian API, and The New York Times API.
-- **Article Search and Filtering:** Users can search for articles by keyword and filter results by date, category, and source.
-- **Personalized News Feed:** Users can customize their news feed by selecting preferred sources and categories.
-- **Mobile-Responsive Design:** The website is optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
+  -- **Fetching data from three different sources:** NewsAPI.org, The Guardian API, and The New York Times API.
+  -- **Article Search and Filtering:** Users can search for articles by keyword and filter results by date, category, and source.
+  -- **Personalized News Feed:** Users can customize their news feed by selecting preferred sources and categories.
+  -- **Mobile-Responsive Design:** The website is optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
 
   ### Need to be Implemented:
-- **Selecting Preferred Authors:** The feature to select preferred authors for the personalized news feed is not yet implemented.
+  --  **Selecting Preferred Authors:** The feature to select preferred authors for the personalized news feed is not yet implemented.
 
   ### Additional Features:
-- **Lazy Loading:** Users can load more options upon clicking, enhancing the user experience by loading content dynamically.
+  -- **Lazy Loading:** Users can load more options upon clicking, enhancing the user experience by loading content dynamically.
 
 
 ## Design Inspiration
