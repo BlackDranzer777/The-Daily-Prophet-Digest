@@ -49,17 +49,19 @@ export default function SwipeableTemporaryDrawer({category, setCategoryHandler, 
         </ListItem>
       </List>
       {/* <Divider  className='left-right-border-large'/> */}
+      
       <SearchInput 
         date={date} 
         handleDateChange={handleDateChange} 
         setCategoryHandler={setCategoryHandler} 
         sourcesHandler={sourcesHandler} 
       />
-      
+    
+      <hr  className='break-line left-right-border-small'/>
       <List>
         {categories.map((text, index) => (
 
-          <ListItem  className={`left-right-border-small list-item-text ${category === text.toLocaleLowerCase() ? ' active' : ''}`} key={text} disablePadding>
+          <ListItem  className={`list-item-text ${category === text.toLocaleLowerCase() ? ' active' : ''}`} key={text} disablePadding>
             <ListItemButton onClick={() => setCategoryHandler(text)}>
               {/* <ListItemIcon>
                 {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
