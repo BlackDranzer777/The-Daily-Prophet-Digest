@@ -23,28 +23,39 @@ The design of The Daily Prophet draws inspiration from the iconic newspaper feat
 
 ## Getting Started
 
-To run The Daily Prophet locally:
+### Running Locally
 
-1. Clone this repository.
+To run The Daily Prophet locally without Docker:
+
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/BlackDranzer777/The-Daily-Prophet-Digest.git
+    ```
+
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
-4. Access the application at `http://localhost:3000`.
+4. Access the application at [http://localhost:3000](http://localhost:3000).
 
-## Docker Containerization
+### Running with Docker
 
-The Daily Prophet can also be containerized using Docker for easy deployment across different environments. Follow these steps to run it using Docker:
+To run The Daily Prophet using Docker:
 
-1. **Build the Docker image**:
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/BlackDranzer777/The-Daily-Prophet-Digest.git
+    ```
+
+2. Build the Docker image:
     ```bash
     docker build -t daily-prophet-digest .
     ```
 
-2. **Run the Docker container**:
+3. Run the Docker container:
     ```bash
     docker run -p 3000:3000 daily-prophet-digest
     ```
 
-3. **Access the application**:
+4. Access the application:
    Once the Docker container is running, you can access The Daily Prophet in your web browser at [http://localhost:3000](http://localhost:3000).
 
 ## Future Updates
@@ -57,12 +68,11 @@ The Daily Prophet is constantly evolving to provide an even better user experien
 - **Notification System**: Implementing a notification system to alert users about breaking news and important updates.
 - **Social Media Integration**: Integrating social media platforms to allow users to share articles seamlessly with their friends and followers.
 
-
 Stay tuned for these exciting updates, coming soon to The Daily Prophet!
 
 ## Contributors
 
-- [Divyansh Jain](https://github.com/BlackDranzer777/) - Full-Stack Developer
+- [Your Name](https://github.com/BlackDranzer777/) - Lead Developer
 
 ## License
 
