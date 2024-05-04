@@ -1,3 +1,7 @@
+<div style="background-color: #f0f0f0; padding: 20px;">
+    <p>This is a paragraph with a custom background color.</p>
+</div>
+
 # The Daily Prophet
 
 ![The Daily Prophet Logo](https://github.com/BlackDranzer777/The-Daily-Prophet-Digest/blob/main/daily_prophet.png)
