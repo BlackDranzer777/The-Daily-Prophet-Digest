@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background-color: #eee5de; padding: 20px;">
     <p>This is a paragraph with a custom background color.</p>
 </div>
 
