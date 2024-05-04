@@ -1,0 +1,75 @@
+.dates {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.date-label {
+    color: black;
+    font-size: 12px;
+}
+
+/* Style the date picker button */
+.date-picker {
+    appearance: none; /* Remove default styling */
+    border: none; /* Remove border */
+    background-color: white; /* Set background color */
+    color: black; /* Set text color */
+    font-size: 14px; /* Set font size */
+    
+    padding: 8px 8px; /* Add padding */
+    cursor: pointer; /* Change cursor on hover */
+    outline: none; /* Remove outline */
+}
+
+/* Style the date picker icon */
+.date-picker::-webkit-calendar-picker-indicator {
+    display: none; /* Hide the default calendar icon */
+}
+
+.form-field {
+    margin: 10px;
+}
+
+/* Container for each form */
+.search-input form {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+}
+
+/* Style the input containers */
+.input-container {
+    background-color: white; /* Set background color */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+    border-radius: 1px; /* Add some curve */
+    justify-content: center;
+}
+
+/* Style the input boxes */
+.search-input-text-field {
+    background-color: transparent; /* Set transparent background */
+    color: black; /* Set text color */
+    font-size: 14px; /* Set smaller font size */
+    border: none; /* Remove border */
+    padding: 4px 8px; /* Reduce padding */
+    margin-right: 8px; /* Reduce margin between input and button */
+    outline: none; /* Remove outline */
+}
+
+/* Style the submit buttons */
+.search-input-submit-button {
+    background-color: black; /* Set background color */
+    color: white; /* Set text color */
+    font-size: 14px; /* Set smaller font size */
+    border: none; /* Remove border */
+    border-radius: 1px; /* Add some curve */
+    padding: 6px 10px; /* Add padding */
+    cursor: pointer; /* Change cursor on hover */
+    outline: none; /* Remove outline */
+}
+
+/* Hover effect for the submit buttons */
+.search-input-submit-button:hover {
+    background-color: #333; /* Darken background color on hover */
+}

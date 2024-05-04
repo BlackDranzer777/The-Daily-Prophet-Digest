@@ -1,0 +1,36 @@
+.box{
+    /* background-color: antiquewhite; */
+    display: flex;
+    height: 100vh;
+    /* background-image: url("https://i.imgur.com/tYT34Ig.jpg"); */
+    background-color: #eee5de;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box-heading{
+    font-size: 40px;
+    font-family: "Josefin Sans", "sans-serif";
+}
+
+.hamburger-icon{
+    color: black;
+}
+
+.list-item-text{
+    padding: 10px;
+    font-size: 30px !important;
+    font-family: "Josefin Sans", "sans-serif" !important;
+}
+
+.list-item-text:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.active{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
