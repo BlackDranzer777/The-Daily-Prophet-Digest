@@ -6,10 +6,6 @@ The Daily Prophet is a magical news aggregator inspired by the wizarding world o
 
 ## Features
 
-- **Article Search and Filtering**: Easily search for articles by keyword and filter results by date, category, and source.
-- **Personalized News Feed**: Customize your news feed by selecting preferred sources, categories, and authors.
-- **Mobile-Responsive Design**: Optimized for viewing on mobile devices, ensuring a seamless experience across all screen sizes.
-
   ### Implemented:
   - **Fetching data from three different sources:** NewsAPI.org, The Guardian API, and The New York Times API.
   - **Article Search and Filtering:** Users can search for articles by keyword and filter results by date, category, and source.
